@@ -1,0 +1,37 @@
+body { 
+  text-align: center; 
+  font-family: 'Open Sans', sans-serif; 
+} 
+
+header { 
+  background-color: burlywood; 
+} 
+
+img { 
+  max-width: 100%; 
+  max-height:100%; 
+  display: block; 
+  margin: 0 auto;  
+} 
+
+img-div { 
+  display: flex;   
+  justify-content: center;  
+  padding: 20px 10px;  
+  max-width: 640px; 
+  max-height: 930px; 
+} 
+
+div { 
+  width: 80%;  
+  background-color: burlywood;  
+  margin-left: auto;  
+  margin-right: auto;  
+  padding: 20px;  
+  max-width: 1000px; 
+  text-align: left;  
+} 
+
+div h3 { 
+  text-align: center; 
+} 
